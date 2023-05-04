@@ -2,9 +2,9 @@
     Faça uma função que receba como parâmetro um vetor de inteiros e seu tamanho. 
     A função deve modificar o vetor de maneira que:
 
-a) Elementos com valor original menor ou igual a 0 fiquem com o valor -2 ;
+a) Elementos com valor original menor ou igual a 0 fiquem com o valor -2;
 b) Elementos cujo valor original (vo) esteja no intervalo (1<= vo <= 5) fiquem 
-com o valor -1; 
+com o valor -1;
 c) Elementos que não sejam enquadrados nos itens a e b recebam o valor 0.
 */
 
